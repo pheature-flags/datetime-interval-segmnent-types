@@ -1,6 +1,14 @@
 # Changelog
 
-## [0.8.0](https://github.com/pheature-flags/datetime-interval-segment-types/tree/0.8.0)
+## [0.8.1](https://github.com/pheature-flags/datetime-interval-segment-types/tree/0.8.1)
+
+[Full Changelog](https://github.com/pheature-flags/datetime-interval-segment-types/compare/0.8.0...0.8.1)
+
+**Merged pull requests:**
+
+- Update pheature-flags deps to ^0.8 [\#20](https://github.com/pheature-flags/datetime-interval-segment-types/pull/20) (@kpicaza)
+
+## [0.8.0](https://github.com/pheature-flags/datetime-interval-segment-types/tree/0.8.0) (2023-10-31)
 
 [Full Changelog](https://github.com/pheature-flags/datetime-interval-segment-types/compare/0.7.1...0.8.0)
 
