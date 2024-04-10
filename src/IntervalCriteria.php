@@ -47,6 +47,7 @@ final class IntervalCriteria
         Assert::string($criteria['end_datetime']);
         Assert::keyExists($criteria, 'timezone');
         Assert::string($criteria['timezone']);
+        Assert::notEmpty($criteria['timezone']);
         $matches = [];
         if (array_key_exists('matches', $criteria)) {
             Assert::isArray($criteria['matches']);
